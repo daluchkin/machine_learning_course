@@ -1,0 +1,14 @@
+_book/
+_bookdown_files/
+**/*.bib_book/
+**/*.bib
+figure_html/
+!docs/figure_html/
+# R and Rstudio specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+**/.DS_Store
+.ipynb_checkpoints
