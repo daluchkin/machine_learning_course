@@ -15,6 +15,7 @@ These are my personal learning notes and experiments conducted while going throu
 
 ### **Part 3: Classification**
 - Techniques: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification.
+  [Go to code >>](./03_Classification/)
 
 ### **Part 4: Clustering**
 - Techniques: K-Means, Hierarchical Clustering.
