@@ -8,8 +8,8 @@ This section focuses on the machine learning technique known as Logistic Regress
 
 ## Notebooks/Code
 
-+ ![Python >>](./01_Python/)
-+ ![R >>](./02_R/)
++ [Python >>](./01_Python/logistic_regression.ipynb)
++ [R >>](./02_R/logistic_regression.ipynb)
 
 ## Tools & Libraries
 
