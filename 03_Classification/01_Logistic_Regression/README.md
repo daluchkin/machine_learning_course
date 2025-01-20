@@ -14,7 +14,7 @@ This section focuses on the machine learning technique known as Logistic Regress
 ## Tools & Libraries
 
 + **Python**: Pandas, numpy, matplotlib, scikit-learn
-+ **R**: tidyverse, ggplot2, caret
++ **R**: tidyverse, ggplot2, caret, ROCR
 
 ---
 
