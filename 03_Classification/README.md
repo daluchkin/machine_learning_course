@@ -7,7 +7,7 @@ These are my personal learning notes and experiments conducted while going throu
 ## Machine learning algorithms
 
 - **Logistic Regression** [>>](./01_Logistic_Regression)
-- **K-Nearest Neighbors (K-NN)** [>>]()
+- **K-Nearest Neighbors (K-NN)** [>>](./02_K-Nearest_Heighbors_KNN)
 - **Support Vector Machine (SVM)** [>>]()
 - **Kernel SVM** [>>]()
 - **Naive Bayes** [>>]()
