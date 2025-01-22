@@ -9,7 +9,7 @@ These are my personal learning notes and experiments conducted while going throu
 - **Logistic Regression** [>>](./01_Logistic_Regression)
 - **K-Nearest Neighbors (K-NN)** [>>](./02_K-Nearest_Heighbors_KNN)
 - **Support Vector Machine (SVM)** [>>](./03_Support_Vector_Machine_SVM)
-- **Kernel SVM** [>>]()
+- **Kernel SVM** [>>](./04_Kernel_SVM)
 - **Naive Bayes** [>>]()
 - **Decision Tree Classification** [>>]()
 - **Random Forest Classification** [>>]()
