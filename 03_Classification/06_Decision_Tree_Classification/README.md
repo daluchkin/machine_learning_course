@@ -14,7 +14,7 @@ This topic presents the practical application of Decision Tree Classification, s
 ## Tools & Libraries
 
 + **Python**: Pandas, numpy, matplotlib, scikit-learn
-+ **R**: tidyverse, ggplot2, rpart
++ **R**: tidyverse, ggplot2, rpart, caret
   
 ---
 
