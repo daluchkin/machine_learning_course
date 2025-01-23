@@ -10,7 +10,7 @@ These are my personal learning notes and experiments conducted while going throu
 - **K-Nearest Neighbors (K-NN)** [>>](./02_K-Nearest_Heighbors_KNN)
 - **Support Vector Machine (SVM)** [>>](./03_Support_Vector_Machine_SVM)
 - **Kernel SVM** [>>](./04_Kernel_SVM)
-- **Naive Bayes** [>>]()
+- **Naive Bayes** [>>](./05_Naive_Bayes)
 - **Decision Tree Classification** [>>]()
 - **Random Forest Classification** [>>]()
 
