@@ -4,7 +4,7 @@ This section of the repository is dedicated to Decision Tree Regression and is p
 
 ## Section Description
 
-This topic presents the practical application of Decision Tree Regression, structured step-by-step through the analysis and forecasting process..
+This topic presents the practical application of Decision Tree Regression, structured step-by-step through the analysis and forecasting process.
 
 ## Tools & Libraries
 

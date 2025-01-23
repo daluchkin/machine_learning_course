@@ -11,8 +11,9 @@ These are my personal learning notes and experiments conducted while going throu
 - **Support Vector Machine (SVM)** [>>](./03_Support_Vector_Machine_SVM)
 - **Kernel SVM** [>>](./04_Kernel_SVM)
 - **Naive Bayes** [>>](./05_Naive_Bayes)
-- **Decision Tree Classification** [>>]()
-- **Random Forest Classification** [>>]()
-
+- **Decision Tree Classification** [>>](./06_Decision_Tree_Classification)
+- **Random Forest Classification** [>>](./07_Random_Forest_Classification)
+- Classification model selection
+- Evaluating classification models performance
 
 [Portfolio](https://github.com/daluchkin/data-analyst-portfolio) |  [Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
