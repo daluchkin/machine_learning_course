@@ -1,4 +1,4 @@
-# Logistic Regression
+# Kernel SVM
 
 This section of the repository is dedicated to the Support Vector Machine (SVM) algorithm and is part of the course **Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]** hosted on Udemy. You can find more information about the course [here](https://www.udemy.com/course/machinelearning).
 

@@ -19,6 +19,7 @@ These are my personal learning notes and experiments conducted while going throu
 
 ### **Part 4: Clustering**
 - Techniques: K-Means, Hierarchical Clustering.
+  [Go to code >>](./04_Clustering/)
 
 ### **Part 5: Association Rule Learning**
 - Techniques: Apriori, Eclat.

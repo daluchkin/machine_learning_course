@@ -1,4 +1,4 @@
-# Decision Tree Regression
+# Random Forest Classification
 
 This section of the repository is dedicated to Random Forest Classification and is part of the course **Machine Learning A-Z: AI, Python & R** hosted on Udemy. You can find more information about the course [here](https://www.udemy.com/course/machinelearning/).
 
