@@ -23,6 +23,7 @@ These are my personal learning notes and experiments conducted while going throu
 
 ### **Part 5: Association Rule Learning**
 - Techniques: Apriori, Eclat.
+  [Go to code >>](./05_Association_Rule_Learning/)
 
 ### **Part 6: Reinforcement Learning**
 - Algorithms: Upper Confidence Bound, Thompson Sampling.
