@@ -9,8 +9,8 @@ These are my personal learning notes and experiments conducted while going throu
 - **Apriori** [>>](./01_Apriori)  
   A classic algorithm for association rule mining that finds frequent itemsets using the anti-monotonic property. It is widely used for discovering strong associations in transactional datasets.
 
-- **Aclat** [>>](./02_Aclat)  
-  Aclat leverages a vertical data format to speed up frequent itemset mining by using intersection-based counting rather than horizontal scanning.
+- **Eclat** [>>](./02_Eclat)  
+  Eclat is a fast algorithm for finding frequent itemsets. It works by comparing transaction lists instead of generating candidate sets, making it efficient for large and sparse datasets.
 
 
 [Portfolio](https://github.com/daluchkin/data-analyst-portfolio) |  [Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
