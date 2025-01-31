@@ -8,8 +8,8 @@ This topic presents the practical application of the Apriori algorithm, structur
 
 ## Notebooks/Code
 
-+ [Python >>](./03_Python/apriori_py.ipynb)
-+ [R >>](./04_R/apriori_r.ipynb)
++ [Python >>](./01_Python/apriori_py.ipynb)
++ [R >>](./02_R/apriori_r.ipynb)
 
 ## Tools & Libraries
 
