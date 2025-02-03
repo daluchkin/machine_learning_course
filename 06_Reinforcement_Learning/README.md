@@ -2,7 +2,7 @@
 
 # Reinforcement Learning 
 
-These are my personal learning notes and experiments conducted while going through the course [Machine Learning A-Z: AI, Python & R](https://www.udemy.com/course/machinelearning/) on Udemy. This section covers fundamental **Reinforcement Learning** algorithms used for **decision-making in uncertain environments**, commonly applied in **multi-armed bandit problems, online advertising, recommendation systems, and game AI**. Reinforcement Learning is a powerful branch of Machine Learning. It is used to solve interacting problems where the data observed up to time t is considered to decide which action to take at time t + 1. It is also used for Artificial Intelligence when training machines to perform tasks such as walking. Desired outcomes provide the AI with reward, undesired with punishment. Machines learn through trial and error. 
+These are my personal learning notes and experiments conducted while going through the course [Machine Learning A-Z: AI, Python & R](https://www.udemy.com/course/machinelearning/) on Udemy. This section covers fundamental **Reinforcement Learning** algorithms used for **decision-making in uncertain environments**, commonly applied in **multi-armed bandit problems, online advertising, recommendation systems, and game AI**. Reinforcement Learning is a powerful branch of Machine Learning. It is used to solve interacting problems where the data observed up to time $t$ is considered to decide which action to take at time $t + 1$. It is also used for Artificial Intelligence when training machines to perform tasks such as walking. Desired outcomes provide the AI with reward, undesired with punishment. Machines learn through trial and error. 
 
 ## Reinforcement Learning Algorithms
 
