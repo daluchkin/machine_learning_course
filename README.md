@@ -27,6 +27,7 @@ These are my personal learning notes and experiments conducted while going throu
 
 ### **Part 6: Reinforcement Learning**
 - Algorithms: Upper Confidence Bound, Thompson Sampling.
+  [Go to code >>](.//06_Reinforcement_Learning/)
 
 ### **Part 7: Natural Language Processing**
 - Models: Bag-of-words, Algorithms for NLP.
