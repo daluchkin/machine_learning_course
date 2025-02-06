@@ -27,10 +27,11 @@ These are my personal learning notes and experiments conducted while going throu
 
 ### **Part 6: Reinforcement Learning**
 - Algorithms: Upper Confidence Bound, Thompson Sampling.
-  [Go to code >>](.//06_Reinforcement_Learning/)
+  [Go to code >>](./06_Reinforcement_Learning/)
 
 ### **Part 7: Natural Language Processing**
 - Models: Bag-of-words, Algorithms for NLP.
+  [Go to code >>](./07_Natural_Language_Processing/)
 
 ### **Part 8: Deep Learning**
 - Architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN).
