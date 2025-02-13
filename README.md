@@ -35,6 +35,7 @@ These are my personal learning notes and experiments conducted while going throu
 
 ### **Part 8: Deep Learning**
 - Architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN).
+  [Go to code >>](./08_Deep_Learning/)
 
 ### **Part 9: Dimensionality Reduction**
 - Techniques: PCA, LDA, Kernel PCA.
