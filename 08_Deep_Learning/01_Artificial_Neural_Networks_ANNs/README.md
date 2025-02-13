@@ -8,14 +8,13 @@ This topic presents the practical application of **Artificial Neural Networks (A
 
 ## **Notebooks/Code**  
 
-+ [Python >>](./01_ANN_py.ipynb)  
++ [Python >>](./01_Python/ANN_py.ipynb)  
 + [R >>](./02_R/ANN_r.ipynb)  
 
 ## **Tools & Libraries**  
 
-+ **Python**: 
-+ **R**: 
-
++ **Python**: `numpy`, `matplotlib`, `pandas`, `tensorflow`
++ **R**: `tidyverse`, `ggplot2`, `rsample`, `h2o`, `keras3`
 ---
 
 Feel free to suggest any improvements, leave feedback, or contact me via:
