@@ -8,7 +8,7 @@ This topic presents the practical application of **Convolutional Neural Networks
 
 ## **Notebooks/Code**  
 
-+ [Python >>](./01_CNN_py.ipynb)  
++ [Python >>](./01_Python/CNN_py.ipynb)  
 + [R >>](./02_R/CNN_r.ipynb)  
 
 ## **Tools & Libraries**  
