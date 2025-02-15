@@ -9,12 +9,10 @@ This topic presents the practical application of **Convolutional Neural Networks
 ## **Notebooks/Code**  
 
 + [Python >>](./01_Python/CNN_py.ipynb)  
-+ [R >>](./02_R/CNN_r.ipynb)  
 
 ## **Tools & Libraries**  
 
 + **Python**: `numpy`, `matplotlib`, `tensorflow`
-+ **R**: `tidyverse`, `ggplot2`, `keras3`
 
 ---
 
