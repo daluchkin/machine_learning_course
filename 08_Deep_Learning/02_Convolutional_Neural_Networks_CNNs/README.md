@@ -13,8 +13,8 @@ This topic presents the practical application of **Convolutional Neural Networks
 
 ## **Tools & Libraries**  
 
-+ **Python**: 
-+ **R**: 
++ **Python**: `numpy`, `matplotlib`, `tensorflow`
++ **R**: `tidyverse`, `ggplot2`, `keras3`
 
 ---
 

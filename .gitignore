@@ -12,3 +12,4 @@ figure_html/
 .DS_Store
 **/.DS_Store
 .ipynb_checkpoints
+08_Deep_Learning/02_Convolutional_Neural_Networks_CNNs/00_data/*
