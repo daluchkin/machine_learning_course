@@ -39,6 +39,7 @@ These are my personal learning notes and experiments conducted while going throu
 
 ### **Part 9: Dimensionality Reduction**
 - Techniques: PCA, LDA, Kernel PCA.
+  [Go to code >>](./09_Dimensionality_Reduction/)
 
 ### **Part 10: Model Selection & Boosting**
 - Concepts: k-Fold Cross Validation, Parameter Tuning, Grid Search.
